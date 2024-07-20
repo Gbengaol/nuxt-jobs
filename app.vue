@@ -1,4 +1,4 @@
-<script lang="ts">
+<script setup lang="ts">
 import { Toaster } from "@/components/ui/sonner";
 import "./assets/css/main.css";
 </script>
